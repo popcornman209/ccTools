@@ -2,7 +2,7 @@
 just a bunch of random computer craft libraries, and tools.
 
 # git
-### this is not mine, just modified to fit my usage. [original](http://www.computercraft.info/forums2/index.php?/topic/4072-github-repository-downloader/)
+### this is not mine, just modified to fit my usage. [original](http://www.computercraft.info/forums2/index.php?/topic/4072-github-repository-downloader/) (link broken due to cc's website being down)
 git program for computer craft
 ### usage:
 ```

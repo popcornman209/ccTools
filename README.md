@@ -10,7 +10,7 @@ git <usr> <repo> <local path> <path in repo> <branch>
 ```
 so for example to download all the files in this repo you would do
 ```
-git popcornman209 computerCraft-git /
+git popcornman209 ccTools /
 ```
 if you dont add the local path, it defaults to a downloads folder.
 

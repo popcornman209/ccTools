@@ -2,8 +2,8 @@
 just a bunch of random computer craft libraries, and tools.
 
 # git
-### this is not mine, just modified to fit my usage. [original](http://www.computercraft.info/forums2/index.php?/topic/4072-github-repository-downloader/) (link broken due to cc's website being down)
-git program for computer craft
+### this is not mine, just modified to fit my usage. [original](http://www.computercraft.info/forums2/index.php?/topic/4072-github-repository-downloader/)
+git program for computer craft. also the link above is broken due to cc's website being under maintenance.
 ### usage:
 ```
 git <usr> <repo> <local path> <path in repo> <branch>
